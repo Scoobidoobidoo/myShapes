@@ -18,6 +18,6 @@ public class Triangle extends Shapes{
 
     @Override
     public String toString() {
-        return "This is " + super.toString() + ", a= " + a + ", b= " + b + ", c= " + c;
+        return super.toString() + ", a= " + a + ", b= " + b + ", c= " + c;
     }
 }

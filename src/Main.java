@@ -15,7 +15,7 @@ public class Main {
         System.out.println(triangle.calcArea());
 
 
-       
+
         Shapes[] array = {new Rectangle("White", 5, 5), new Rectangle("Black", 7, 8), new Rectangle("Gray", 6, 6), new Rectangle("Brown", 7, 4), new Rectangle("Blue", 1, 5),
                 new Triangle("Orange", 7, 7, 7), new Triangle("Pink", 4, 5, 6),
                 new Circle("Silver", 5), new Circle("Pink", 7)};

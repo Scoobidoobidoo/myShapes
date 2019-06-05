@@ -10,6 +10,6 @@ private String shapeColor;
 
     @Override
     public String toString() {
-        return getClass().getSimpleName()+ ", color is " + shapeColor;
+        return "This is " + getClass().getSimpleName()+ ", color is " + shapeColor;
     }
 }
